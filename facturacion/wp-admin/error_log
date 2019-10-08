@@ -1,0 +1,4 @@
+[29-Jul-2019 14:25:56 UTC] Error Unknown column 'wp_' in 'field list' de la base de datos de WordPress para la consulta SELECT wp_
+[29-Jul-2019 14:28:24 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 36864 bytes) in /home/macparkk/public_html/facturacion/wp-content/themes/Newspaper/includes/wp_booster/td_util.php on line 1385
+[29-Jul-2019 14:28:29 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 36864 bytes) in /home/macparkk/public_html/facturacion/wp-content/themes/Newspaper/includes/wp_booster/td_util.php on line 1382
+[29-Jul-2019 14:29:33 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 36864 bytes) in /home/macparkk/public_html/facturacion/wp-content/themes/Newspaper/includes/wp_booster/td_util.php on line 1382
